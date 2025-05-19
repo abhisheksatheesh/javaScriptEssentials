@@ -1,0 +1,32 @@
+{
+  "articles": [
+    {
+      "title": "Global Climate Summit 2025 Concludes with Historic Agreement",
+      "description": "World leaders have signed a groundbreaking climate accord aimed at limiting global temperature rise to 1.5°C, boosting investments in renewable energy, and enforcing stricter emissions regulations.",
+      "key_points": [
+        "Over 190 countries participated in the summit held in Geneva.",
+        "New targets set to reduce global carbon emissions by 45% by 2035.",
+        "A $100 billion climate adaptation fund established to support developing nations."
+      ],
+      "implications": [
+        "Renewable energy adoption expected to surge globally.",
+        "Greater pressure on industries to transition to cleaner technologies.",
+        "Enhanced international collaboration on climate research and sustainability efforts."
+      ]
+    },
+    {
+      "title": "Breakthrough in AI: New Model Achieves Human-Level Performance on Standardized Tests",
+      "description": "A leading tech company has unveiled an AI system that matches human accuracy on a wide range of standardized academic and reasoning tests.",
+      "key_points": [
+        "Model surpasses benchmarks in mathematics, reading comprehension, and logic.",
+        "Trained using advanced neural architectures and massive multi-modal datasets.",
+        "Capable of answering open-ended questions with human-like reasoning."
+      ],
+      "implications": [
+        "Could revolutionize education, tutoring, and knowledge retrieval systems.",
+        "Raises ethical questions about AI in decision-making roles.",
+        "Increased focus on AI regulation and responsible deployment frameworks."
+      ]
+    }
+  ]
+}
